@@ -18,3 +18,12 @@
   <img align="center" alt="Guga-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Guga-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
   <img align="center" alt="Guga-Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+
+ ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/gustavolimav/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
