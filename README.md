@@ -1,9 +1,9 @@
 ### Hi!! My name is Gustavo Lima 🤗
 
-- 🔭 I'm a intern currently working on @Liferay with back-end
+- 🔭 I'm a intern currently working on **@Liferay** with back-end
 - 🌱 I’m currently learning more about Java and Elasticsearch
-- :computer: Programming Language: Java, C, Python and Haskell.
-- Other knowledges: HTML, CSS, Elasticsearch, MySQL, Jenkins and Linux.
+- :computer: **Programming Language:** Java, C, Python and Haskell.
+- **Other knowledges:** HTML, CSS, Elasticsearch, MySQL, Jenkins and Linux.
 - 💬 Feel free to ask me about anything that I might know... 
 - 📫 How to reach me: gustavolvma@gmail.com
 
