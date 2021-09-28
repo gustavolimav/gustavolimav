@@ -2,7 +2,7 @@
 
 - 🔭 I'm a intern currently working on **@Liferay** with back-end
 - 🌱 I’m currently learning more about Java and Elasticsearch
-- :computer: **Programming Language:** Java, C, Python and Haskell.
+- :computer: **Programming Language:** Java, C, Python, Haskell and assembly.
 - :computer: **Other knowledges:** HTML, CSS, Elasticsearch, MySQL, Jenkins, Git and Linux.
 - 💬 Feel free to ask me about anything that I might know... 
 - 📫 How to reach me: gustavolvma@gmail.com
