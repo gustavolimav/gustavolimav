@@ -1,7 +1,6 @@
 ### Hi!! My name is Gustavo Lima 🤗
 
 - 🔭 I'm a software engineer currently working in **@Liferay** with back-end
-- 🌱 I’m always learning more about Java and actually learning more about react
 - :computer: **Programming Language:** Java, C, Python, Javascript, Haskell and assembly.
 - :computer: **Other knowledges:** HTML, CSS, Elasticsearch, MySQL, PostgresSQL, Jenkins, Git, Docker and Linux.
 - 💬 Feel free to ask me about anything that I might know... 
@@ -25,5 +24,4 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/gustavolimav/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
