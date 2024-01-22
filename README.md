@@ -1,7 +1,7 @@
 ### Hi!! My name is Gustavo Lima 🤗
 
 - 🔭 I'm a software engineer currently working in **@Liferay** with back-end
-- :computer: **Programming Language:** Java, C, Python, Javascript, Haskell and assembly.
+- :computer: **Programming Language:** Java, Kotlin, Python, Javascript, Typescript, Haskell.
 - :computer: **Other knowledges:** HTML, CSS, Elasticsearch, MySQL, PostgresSQL, Jenkins, Git, Docker and Linux.
 - 💬 Feel free to ask me about anything that I might know... 
 - 📫 How to reach me: gustavolvma@gmail.com
