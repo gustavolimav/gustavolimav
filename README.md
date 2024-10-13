@@ -1,6 +1,6 @@
 ### Hi!! My name is Gustavo Lima 🤗
 
-- 🔭 I'm a software engineer currently working in **@Liferay** with back-end
+- 🔭 I'm a software engineer
 - 📫 How to reach me: gustavolvma@gmail.com
 
 <div>
