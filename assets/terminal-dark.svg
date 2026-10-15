@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="406" viewBox="0 0 860 406" role="img" aria-labelledby="t d">
+  <title id="t">Gustavo Lima — Software Engineer</title>
+  <desc id="d">A terminal session: whoami prints Gustavo Lima, Software Engineer at Bradesco in Recife, Brazil; now.md lists working on the digital token product in the Business-Integrated Security tribe at Bradesco, building fast web products with TypeScript, Next.js and Postgres, 450+ pull requests to Liferay Portal, and shipping side products end to end; ls projects lists financas, nossalista, casa-em-dia, papershare and template-project.</desc>
+  <style>
+    .bg { fill: #0d1117; }
+    .bar { fill: #161b22; }
+    .frame { fill: none; stroke: #30363d; }
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; fill: #c9d1d9; }
+    .title { font-size: 12.5px; fill: #8b949e; }
+    .p { fill: #7ee787; }
+    .path { fill: #79c0ff; }
+    .cmd { fill: #f0f6fc; font-weight: 600; }
+    .dim { fill: #8b949e; }
+    .hl { fill: #ffa657; }
+    .acc { fill: #d2a8ff; }
+    .dir { fill: #79c0ff; font-weight: 600; }
+    .cur { fill: #7ee787; animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cur { animation: none; } }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" width="859" height="405" rx="12"/>
+  <path class="bar" d="M12.5 .5h835a12 12 0 0 1 12 12V40H.5V12.5a12 12 0 0 1 12-12z"/>
+  <rect class="frame" x="0.5" y="0.5" width="859" height="405" rx="12"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f57"/><circle cx="44" cy="20" r="6" fill="#febc2e"/><circle cx="64" cy="20" r="6" fill="#28c840"/>
+  <text class="title" x="430" y="24.5" text-anchor="middle">gustavo@recife: ~</text>
+
+  <text class="l l1" x="28" y="78"><tspan class="p">➜</tspan> <tspan class="path">~</tspan> <tspan class="cmd">whoami</tspan></text>
+  <text class="l l2" x="28" y="106"><tspan class="cmd">Gustavo Lima</tspan><tspan class="dim"> · </tspan>Software Engineer <tspan class="acc">@ Bradesco</tspan><tspan class="dim"> · </tspan>Recife, Brazil</text>
+
+  <text class="l l3" x="28" y="148"><tspan class="p">➜</tspan> <tspan class="path">~</tspan> <tspan class="cmd">cat now.md</tspan></text>
+  <text class="l l4" x="28" y="176"><tspan class="hl">→</tspan> day job: the <tspan class="acc">digital token</tspan> product · Business-Integrated Security tribe</text>
+  <text class="l l4" x="28" y="202"><tspan class="hl">→</tspan> after hours: building calm, fast web products with <tspan class="acc">TypeScript</tspan>, <tspan class="acc">Next.js</tspan> &amp; <tspan class="acc">Postgres</tspan></text>
+  <text class="l l5" x="28" y="228"><tspan class="hl">→</tspan> <tspan class="hl">450+</tspan> pull requests shipped to <tspan class="acc">Liferay Portal</tspan> <tspan class="dim">(mostly search)</tspan></text>
+  <text class="l l6" x="28" y="254"><tspan class="hl">→</tspan> taking side products end to end: <tspan class="dim">idea → design → code → prod</tspan></text>
+
+  <text class="l l7" x="28" y="296"><tspan class="p">➜</tspan> <tspan class="path">~</tspan> <tspan class="cmd">ls ~/projects</tspan></text>
+  <text class="l l8" x="28" y="324"><tspan class="dir">financas/</tspan>   <tspan class="dir">nossalista/</tspan>   <tspan class="dir">casa-em-dia/</tspan>   <tspan class="dir">papershare/</tspan>   <tspan class="dir">template-project/</tspan></text>
+
+  <g class="l l9"><text x="28" y="366"><tspan class="p">➜</tspan> <tspan class="path">~</tspan></text><rect class="cur" x="58" y="352" width="9" height="18"/></g>
+</svg>
