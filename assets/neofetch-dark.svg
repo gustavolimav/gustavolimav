@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="360" viewBox="0 0 860 360" role="img" aria-labelledby="t d">
   <title id="t">gustavo@github — neofetch</title>
-  <desc id="d">OS: Recife, Brazil (UTC−3); Host: Bradesco · digital token · security; Uptime: 5.8 years on GitHub; Shell: zsh + Claude Code; Repos: 22 public · 2 stars; PRs: 631 opened · 451 to Liferay Portal; Commits: 374 contributions last year; Followers: 23; top languages: TypeScript 70%, Java 11%, JavaScript 10%, C 5%, Python 4%</desc>
+  <desc id="d">OS: Recife, Brazil (UTC−3); Host: Bradesco · digital token · security; Uptime: 5.8 years on GitHub; Shell: zsh + Claude Code; Repos: 22 public · 2 stars; PRs: 631 opened · 451 to Liferay Portal; Commits: 377 contributions last year; Followers: 23; top languages: TypeScript 70%, Java 11%, JavaScript 10%, C 5%, Python 4%</desc>
   <style>
     text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; fill: #c9d1d9; }
     .k { fill: #d2a8ff; font-weight: 700; }
@@ -29,7 +29,7 @@
   <text x="230" y="160"><tspan class="k">Shell</tspan>: zsh + Claude Code</text>
   <text x="230" y="184"><tspan class="k">Repos</tspan>: 22 public · 2 stars</text>
   <text x="230" y="208"><tspan class="k">PRs</tspan>: 631 opened · 451 to Liferay Portal</text>
-  <text x="230" y="232"><tspan class="k">Commits</tspan>: 374 contributions last year</text>
+  <text x="230" y="232"><tspan class="k">Commits</tspan>: 377 contributions last year</text>
   <text x="230" y="256"><tspan class="k">Followers</tspan>: 23</text>
   <rect x="230" y="298" width="560" height="10" rx="5" fill="#21262d"/>
   <rect x="230.0" y="298" width="392.9" height="10" fill="#3178c6"/><rect x="622.9" y="298" width="61.5" height="10" fill="#b07219"/><rect x="684.4" y="298" width="54.2" height="10" fill="#f1e05a"/><rect x="738.6" y="298" width="30.4" height="10" fill="#555555"/><rect x="769.0" y="298" width="21.0" height="10" fill="#3572A5"/>
